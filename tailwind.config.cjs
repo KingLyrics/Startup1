@@ -10,6 +10,7 @@ module.exports = {
         "Dark-blue": "#1E0E62",
         "Under-gray": "#151439",
         Teal: "#25DAC5",
+        Action: "#E93A7D",
       },
     },
   },
