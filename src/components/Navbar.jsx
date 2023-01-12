@@ -3,7 +3,7 @@ import {MdSearch} from 'react-icons/md'
 
 const Navbar = () => {
   return (
-    <nav className='max-w-full flex items-center justify-between py-8 px-10 mx-auto'>
+    <nav className='max-w-full flex items-center justify-between py-8 px-10 mx-auto font-Ds'>
         <div>
             <h1 className='text-Dark-blue text-3xl'>Startup3</h1>
         </div>
